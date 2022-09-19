@@ -1,7 +1,6 @@
 ### Hi there, I'm Buğra 👋
 ### ✨Studying Computer Science at Bilkent University
-###🌱Currently earning Java
-###🔭Currently working on AWS
+
 
 <!--
 **relixia/relixia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
